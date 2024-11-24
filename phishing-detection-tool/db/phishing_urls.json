@@ -1,0 +1,5 @@
+[
+  "http://fake-login.example.com",
+  "http://secure.account-verification.example.com",
+  "http://phishing-site.example.com"
+]

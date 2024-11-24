@@ -1,0 +1,25 @@
+/* popup/popup.css */
+body {
+  font-family: Arial, sans-serif;
+  padding: 10px;
+}
+
+h2 {
+  font-size: 16px;
+  color: #333;
+}
+
+p#status {
+  font-size: 14px;
+  margin: 10px 0;
+  color: red;
+  font-weight: bold;
+}
+
+button#ignore {
+  padding: 5px 10px;
+  border: none;
+  background-color: #666;
+  color: #fff;
+  cursor: pointer;
+}
